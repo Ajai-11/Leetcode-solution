@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajai-11/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Ajai-11/Leetcode-solution/tree/master/0062-unique-paths) |
 | [0518-coin-change-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0518-coin-change-ii) |
 ## Stack
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ajai-11/Leetcode-solution/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/0189-rotate-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ajai-11/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Ajai-11/Leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ajai-11/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ajai-11/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ajai-11/Leetcode-solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
