@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ajai-11/Leetcode-solution/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Ajai-11/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ajai-11/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Ajai-11/Leetcode-solution/tree/master/0200-number-of-islands) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajai-11/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Ajai-11/Leetcode-solution/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0518-coin-change-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0518-coin-change-ii) |
 ## Stack
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Ajai-11/Leetcode-solution/tree/master/0200-number-of-islands) |
 ## Counting
 |  |
