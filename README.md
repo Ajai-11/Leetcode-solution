@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Ajai-11/Leetcode-solution/tree/master/0008-string-to-integer-atoi) |
+| [0038-count-and-say](https://github.com/Ajai-11/Leetcode-solution/tree/master/0038-count-and-say) |
 | [0500-keyboard-row](https://github.com/Ajai-11/Leetcode-solution/tree/master/0500-keyboard-row) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
