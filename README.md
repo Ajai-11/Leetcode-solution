@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/3324-split-the-array) |
 | [3330-modify-the-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/3330-modify-the-matrix) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ajai-11/Leetcode-solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ajai-11/Leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ajai-11/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ajai-11/Leetcode-solution/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ajai-11/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0518-coin-change-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0518-coin-change-ii) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Stack
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1835-decode-xored-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/1835-decode-xored-permutation) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ajai-11/Leetcode-solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0778-reorganize-string) |
+## Bitmask
+|  |
+| ------- |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/3431-find-the-minimum-cost-array-permutation) |
 <!---LeetCode Topics End-->
