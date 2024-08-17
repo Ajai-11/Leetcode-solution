@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0212-word-search-ii) |
 | [0500-keyboard-row](https://github.com/Ajai-11/Leetcode-solution/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0518-coin-change-ii) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Ajai-11/Leetcode-solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ajai-11/Leetcode-solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1835-decode-xored-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/1835-decode-xored-permutation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
