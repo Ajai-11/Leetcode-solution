@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Ajai-11/Leetcode-solution/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0212-word-search-ii) |
 | [0500-keyboard-row](https://github.com/Ajai-11/Leetcode-solution/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0518-coin-change-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ajai-11/Leetcode-solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Ajai-11/Leetcode-solution/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/Ajai-11/Leetcode-solution/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/0179-largest-number) |
+| [0212-word-search-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Ajai-11/Leetcode-solution/tree/master/0214-shortest-palindrome) |
 | [0500-keyboard-row](https://github.com/Ajai-11/Leetcode-solution/tree/master/0500-keyboard-row) |
 | [0778-reorganize-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0778-reorganize-string) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ajai-11/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Ajai-11/Leetcode-solution/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0212-word-search-ii) |
 | [3330-modify-the-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/3330-modify-the-matrix) |
 ## Counting
 |  |
@@ -241,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ajai-11/Leetcode-solution/tree/master/0214-shortest-palindrome) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
