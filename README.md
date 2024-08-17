@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ajai-11/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Ajai-11/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0179-largest-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Ajai-11/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0500-keyboard-row](https://github.com/Ajai-11/Leetcode-solution/tree/master/0500-keyboard-row) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Ajai-11/Leetcode-solution/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/Ajai-11/Leetcode-solution/tree/master/0038-count-and-say) |
+| [0179-largest-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/0179-largest-number) |
 | [0500-keyboard-row](https://github.com/Ajai-11/Leetcode-solution/tree/master/0500-keyboard-row) |
 | [0778-reorganize-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0778-reorganize-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0778-reorganize-string) |
 | [3226-minimum-number-game](https://github.com/Ajai-11/Leetcode-solution/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ajai-11/Leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0778-reorganize-string) |
 ## Bitmask
 |  |
