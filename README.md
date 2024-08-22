@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/0777-toeplitz-matrix) |
 | [0917-boats-to-save-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
+| [1319-unique-number-of-occurrences](https://github.com/Ajai-11/Leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ajai-11/Leetcode-solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1835-decode-xored-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/1835-decode-xored-permutation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Ajai-11/Leetcode-solution/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Ajai-11/Leetcode-solution/tree/master/0575-distribute-candies) |
 | [0778-reorganize-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0778-reorganize-string) |
+| [1319-unique-number-of-occurrences](https://github.com/Ajai-11/Leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ajai-11/Leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/3324-split-the-array) |
