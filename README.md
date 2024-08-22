@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ajai-11/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0374-guess-number-higher-or-lower](https://github.com/Ajai-11/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 ## Brainteaser
 |  |
 | ------- |
@@ -309,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ajai-11/Leetcode-solution/tree/master/0204-count-primes) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Ajai-11/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
