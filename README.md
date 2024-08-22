@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ajai-11/Leetcode-solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ajai-11/Leetcode-solution/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Ajai-11/Leetcode-solution/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0212-word-search-ii) |
 | [0228-summary-ranges](https://github.com/Ajai-11/Leetcode-solution/tree/master/0228-summary-ranges) |
 | [0500-keyboard-row](https://github.com/Ajai-11/Leetcode-solution/tree/master/0500-keyboard-row) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Ajai-11/Leetcode-solution/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Ajai-11/Leetcode-solution/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/Ajai-11/Leetcode-solution/tree/master/0319-bulb-switcher) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ajai-11/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -299,4 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Ajai-11/Leetcode-solution/tree/master/0319-bulb-switcher) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ajai-11/Leetcode-solution/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ajai-11/Leetcode-solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
