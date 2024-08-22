@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Ajai-11/Leetcode-solution/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Ajai-11/Leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ajai-11/Leetcode-solution/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/Ajai-11/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0917-boats-to-save-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/0917-boats-to-save-people) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ajai-11/Leetcode-solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1835-decode-xored-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/1835-decode-xored-permutation) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Ajai-11/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ajai-11/Leetcode-solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
