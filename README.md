@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/Ajai-11/Leetcode-solution/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ajai-11/Leetcode-solution/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0917-boats-to-save-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/0917-boats-to-save-people) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ajai-11/Leetcode-solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1835-decode-xored-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/1835-decode-xored-permutation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Ajai-11/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ajai-11/Leetcode-solution/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/0917-boats-to-save-people) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ajai-11/Leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ajai-11/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0778-reorganize-string) |
+| [0917-boats-to-save-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/0917-boats-to-save-people) |
 | [3226-minimum-number-game](https://github.com/Ajai-11/Leetcode-solution/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ajai-11/Leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0778-reorganize-string) |
+| [0917-boats-to-save-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/0917-boats-to-save-people) |
 ## Bitmask
 |  |
 | ------- |
