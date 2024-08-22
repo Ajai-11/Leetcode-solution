@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Ajai-11/Leetcode-solution/tree/master/0214-shortest-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/Ajai-11/Leetcode-solution/tree/master/0500-keyboard-row) |
 | [0778-reorganize-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0778-reorganize-string) |
 | [1894-merge-strings-alternately](https://github.com/Ajai-11/Leetcode-solution/tree/master/1894-merge-strings-alternately) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Ajai-11/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ajai-11/Leetcode-solution/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/Ajai-11/Leetcode-solution/tree/master/1894-merge-strings-alternately) |
