@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/Ajai-11/Leetcode-solution/tree/master/0500-keyboard-row) |
 | [0778-reorganize-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0778-reorganize-string) |
+| [0953-reverse-only-letters](https://github.com/Ajai-11/Leetcode-solution/tree/master/0953-reverse-only-letters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Ajai-11/Leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Ajai-11/Leetcode-solution/tree/master/1970-sorting-the-sentence) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ajai-11/Leetcode-solution/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/0917-boats-to-save-people) |
+| [0953-reverse-only-letters](https://github.com/Ajai-11/Leetcode-solution/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Ajai-11/Leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ajai-11/Leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
