@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ajai-11/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Ajai-11/Leetcode-solution/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0518-coin-change-ii) |
+| [1013-fibonacci-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/1013-fibonacci-number) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Stack
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Ajai-11/Leetcode-solution/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Ajai-11/Leetcode-solution/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Ajai-11/Leetcode-solution/tree/master/0372-super-pow) |
+| [1013-fibonacci-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ajai-11/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Ajai-11/Leetcode-solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Ajai-11/Leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ajai-11/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -338,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Ajai-11/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
