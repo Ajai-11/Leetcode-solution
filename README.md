@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Ajai-11/Leetcode-solution/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/Ajai-11/Leetcode-solution/tree/master/0500-keyboard-row) |
 | [0742-to-lower-case](https://github.com/Ajai-11/Leetcode-solution/tree/master/0742-to-lower-case) |
 | [0778-reorganize-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0778-reorganize-string) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Ajai-11/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ajai-11/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Ajai-11/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Ajai-11/Leetcode-solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Ajai-11/Leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ajai-11/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
