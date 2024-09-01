@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Ajai-11/Leetcode-solution/tree/master/1677-matrix-diagonal-sum) |
 | [1835-decode-xored-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/1835-decode-xored-permutation) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2639-separate-the-digits-in-an-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/0777-toeplitz-matrix) |
 | [1386-shift-2d-grid](https://github.com/Ajai-11/Leetcode-solution/tree/master/1386-shift-2d-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/Ajai-11/Leetcode-solution/tree/master/1677-matrix-diagonal-sum) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3330-modify-the-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/3330-modify-the-matrix) |
 ## Counting
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/0415-add-strings) |
 | [1386-shift-2d-grid](https://github.com/Ajai-11/Leetcode-solution/tree/master/1386-shift-2d-grid) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2639-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/Ajai-11/Leetcode-solution/tree/master/3226-minimum-number-game) |
 ## Linked List
