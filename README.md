@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Ajai-11/Leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Ajai-11/Leetcode-solution/tree/master/1970-sorting-the-sentence) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Ajai-11/Leetcode-solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/Ajai-11/Leetcode-solution/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/0415-add-strings) |
 | [1386-shift-2d-grid](https://github.com/Ajai-11/Leetcode-solution/tree/master/1386-shift-2d-grid) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Ajai-11/Leetcode-solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2639-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/Ajai-11/Leetcode-solution/tree/master/3226-minimum-number-game) |
