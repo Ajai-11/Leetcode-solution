@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Ajai-11/Leetcode-solution/tree/master/1677-matrix-diagonal-sum) |
 | [1835-decode-xored-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/1835-decode-xored-permutation) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ajai-11/Leetcode-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/0415-add-strings) |
 | [1386-shift-2d-grid](https://github.com/Ajai-11/Leetcode-solution/tree/master/1386-shift-2d-grid) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ajai-11/Leetcode-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ajai-11/Leetcode-solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2639-separate-the-digits-in-an-array) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Ajai-11/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ajai-11/Leetcode-solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ajai-11/Leetcode-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
 |  |
 | ------- |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Ajai-11/Leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ajai-11/Leetcode-solution/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Ajai-11/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ajai-11/Leetcode-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Brainteaser
 |  |
 | ------- |
