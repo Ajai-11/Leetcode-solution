@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3330-modify-the-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/3330-modify-the-matrix) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ajai-11/Leetcode-solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/3431-find-the-minimum-cost-array-permutation) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Ajai-11/Leetcode-solution/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ajai-11/Leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ajai-11/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ajai-11/Leetcode-solution/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ajai-11/Leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/3324-split-the-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ajai-11/Leetcode-solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Ajai-11/Leetcode-solution/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## String
 |  |
 | ------- |
