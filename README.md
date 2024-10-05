@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ajai-11/Leetcode-solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Ajai-11/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/0777-toeplitz-matrix) |
+| [0841-shortest-distance-to-a-character](https://github.com/Ajai-11/Leetcode-solution/tree/master/0841-shortest-distance-to-a-character) |
 | [0917-boats-to-save-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Ajai-11/Leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Ajai-11/Leetcode-solution/tree/master/0500-keyboard-row) |
 | [0742-to-lower-case](https://github.com/Ajai-11/Leetcode-solution/tree/master/0742-to-lower-case) |
 | [0778-reorganize-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0778-reorganize-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/Ajai-11/Leetcode-solution/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/Ajai-11/Leetcode-solution/tree/master/0953-reverse-only-letters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Ajai-11/Leetcode-solution/tree/master/1894-merge-strings-alternately) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ajai-11/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/Ajai-11/Leetcode-solution/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/Ajai-11/Leetcode-solution/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/Ajai-11/Leetcode-solution/tree/master/0953-reverse-only-letters) |
