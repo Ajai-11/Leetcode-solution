@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ajai-11/Leetcode-solution/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3324-split-the-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/3324-split-the-array) |
 | [3330-modify-the-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/3330-modify-the-matrix) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Ajai-11/Leetcode-solution/tree/master/3334-apple-redistribution-into-boxes) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ajai-11/Leetcode-solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Ajai-11/Leetcode-solution/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/Ajai-11/Leetcode-solution/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/2502-sort-the-people) |
 | [3226-minimum-number-game](https://github.com/Ajai-11/Leetcode-solution/tree/master/3226-minimum-number-game) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Ajai-11/Leetcode-solution/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ajai-11/Leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Ajai-11/Leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0778-reorganize-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/0917-boats-to-save-people) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Ajai-11/Leetcode-solution/tree/master/3334-apple-redistribution-into-boxes) |
 ## Bitmask
 |  |
 | ------- |
