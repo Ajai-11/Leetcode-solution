@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2639-separate-the-digits-in-an-array) |
+| [2737-row-with-maximum-ones](https://github.com/Ajai-11/Leetcode-solution/tree/master/2737-row-with-maximum-ones) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Ajai-11/Leetcode-solution/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Ajai-11/Leetcode-solution/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Ajai-11/Leetcode-solution/tree/master/3226-minimum-number-game) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Ajai-11/Leetcode-solution/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2737-row-with-maximum-ones](https://github.com/Ajai-11/Leetcode-solution/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/3330-modify-the-matrix) |
 ## Counting
 |  |
