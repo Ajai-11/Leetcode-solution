@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Ajai-11/Leetcode-solution/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/Ajai-11/Leetcode-solution/tree/master/3451-string-compression-iii) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Ajai-11/Leetcode-solution/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Ajai-11/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ajai-11/Leetcode-solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Ajai-11/Leetcode-solution/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Prefix Sum
 |  |
 | ------- |
