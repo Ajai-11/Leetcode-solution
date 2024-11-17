@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Ajai-11/Leetcode-solution/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Ajai-11/Leetcode-solution/tree/master/0372-super-pow) |
 | [0415-add-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/0415-add-strings) |
+| [0728-self-dividing-numbers](https://github.com/Ajai-11/Leetcode-solution/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
