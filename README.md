@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Ajai-11/Leetcode-solution/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/Ajai-11/Leetcode-solution/tree/master/0319-bulb-switcher) |
+| [0367-valid-perfect-square](https://github.com/Ajai-11/Leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Ajai-11/Leetcode-solution/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Ajai-11/Leetcode-solution/tree/master/0372-super-pow) |
 | [0415-add-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/0415-add-strings) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Ajai-11/Leetcode-solution/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ajai-11/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0367-valid-perfect-square](https://github.com/Ajai-11/Leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ajai-11/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ajai-11/Leetcode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ajai-11/Leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
