@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/0777-toeplitz-matrix) |
 | [0841-shortest-distance-to-a-character](https://github.com/Ajai-11/Leetcode-solution/tree/master/0841-shortest-distance-to-a-character) |
 | [0917-boats-to-save-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/0917-boats-to-save-people) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ajai-11/Leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Ajai-11/Leetcode-solution/tree/master/1168-duplicate-zeros) |
 | [1319-unique-number-of-occurrences](https://github.com/Ajai-11/Leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ajai-11/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Ajai-11/Leetcode-solution/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0518-coin-change-ii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ajai-11/Leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/1013-fibonacci-number) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Stack
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ajai-11/Leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0372-super-pow](https://github.com/Ajai-11/Leetcode-solution/tree/master/0372-super-pow) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ajai-11/Leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -433,4 +436,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/1013-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ajai-11/Leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ajai-11/Leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
