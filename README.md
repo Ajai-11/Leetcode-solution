@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Ajai-11/Leetcode-solution/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/Ajai-11/Leetcode-solution/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Ajai-11/Leetcode-solution/tree/master/0575-distribute-candies) |
 | [0778-reorganize-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0778-reorganize-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Ajai-11/Leetcode-solution/tree/master/0214-shortest-palindrome) |
+| [0290-word-pattern](https://github.com/Ajai-11/Leetcode-solution/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/0415-add-strings) |
