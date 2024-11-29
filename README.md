@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Ajai-11/Leetcode-solution/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0212-word-search-ii) |
 | [0228-summary-ranges](https://github.com/Ajai-11/Leetcode-solution/tree/master/0228-summary-ranges) |
+| [0274-h-index](https://github.com/Ajai-11/Leetcode-solution/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0500-keyboard-row](https://github.com/Ajai-11/Leetcode-solution/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0518-coin-change-ii) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Ajai-11/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/0179-largest-number) |
+| [0274-h-index](https://github.com/Ajai-11/Leetcode-solution/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/0917-boats-to-save-people) |
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ajai-11/Leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Ajai-11/Leetcode-solution/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
