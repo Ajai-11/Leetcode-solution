@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/Ajai-11/Leetcode-solution/tree/master/2580-circular-sentence) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ajai-11/Leetcode-solution/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Ajai-11/Leetcode-solution/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3194-find-words-containing-character](https://github.com/Ajai-11/Leetcode-solution/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/Ajai-11/Leetcode-solution/tree/master/3451-string-compression-iii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/Ajai-11/Leetcode-solution/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ajai-11/Leetcode-solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/Ajai-11/Leetcode-solution/tree/master/1894-merge-strings-alternately) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Ajai-11/Leetcode-solution/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ajai-11/Leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
 |  |
