@@ -466,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Ajai-11/Leetcode-solution/tree/master/0274-h-index) |
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/Ajai-11/Leetcode-solution/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
