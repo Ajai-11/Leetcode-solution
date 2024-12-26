@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2998-count-symmetric-integers](https://github.com/Ajai-11/Leetcode-solution/tree/master/2998-count-symmetric-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ajai-11/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ajai-11/Leetcode-solution/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Depth-First Search
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ajai-11/Leetcode-solution/tree/master/0204-count-primes) |
+| [2998-count-symmetric-integers](https://github.com/Ajai-11/Leetcode-solution/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
