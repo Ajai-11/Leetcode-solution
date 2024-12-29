@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Ajai-11/Leetcode-solution/tree/master/0008-string-to-integer-atoi) |
+| [0032-longest-valid-parentheses](https://github.com/Ajai-11/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ajai-11/Leetcode-solution/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Ajai-11/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/0179-largest-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ajai-11/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ajai-11/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Ajai-11/Leetcode-solution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0063-unique-paths-ii) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ajai-11/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ajai-11/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ajai-11/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ajai-11/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
