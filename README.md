@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Ajai-11/Leetcode-solution/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/Ajai-11/Leetcode-solution/tree/master/0953-reverse-only-letters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ajai-11/Leetcode-solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ajai-11/Leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Ajai-11/Leetcode-solution/tree/master/1894-merge-strings-alternately) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ajai-11/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Ajai-11/Leetcode-solution/tree/master/0724-find-pivot-index) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ajai-11/Leetcode-solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ajai-11/Leetcode-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
