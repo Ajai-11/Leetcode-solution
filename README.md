@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ajai-11/Leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ajai-11/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ajai-11/Leetcode-solution/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Ajai-11/Leetcode-solution/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Ajai-11/Leetcode-solution/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/3330-modify-the-matrix) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Ajai-11/Leetcode-solution/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Counting
 |  |
 | ------- |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Ajai-11/Leetcode-solution/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/0917-boats-to-save-people) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Ajai-11/Leetcode-solution/tree/master/3334-apple-redistribution-into-boxes) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Ajai-11/Leetcode-solution/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Bitmask
 |  |
 | ------- |
