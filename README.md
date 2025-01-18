@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ajai-11/Leetcode-solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Ajai-11/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Ajai-11/Leetcode-solution/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ajai-11/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Ajai-11/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ajai-11/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Ajai-11/Leetcode-solution/tree/master/0200-number-of-islands) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/0415-add-strings) |
 | [1386-shift-2d-grid](https://github.com/Ajai-11/Leetcode-solution/tree/master/1386-shift-2d-grid) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ajai-11/Leetcode-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
