@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ajai-11/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Ajai-11/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Ajai-11/Leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Ajai-11/Leetcode-solution/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Ajai-11/Leetcode-solution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/0189-rotate-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ajai-11/Leetcode-solution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ajai-11/Leetcode-solution/tree/master/0064-minimum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/Ajai-11/Leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ajai-11/Leetcode-solution/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/Ajai-11/Leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ajai-11/Leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
