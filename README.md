@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ajai-11/Leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ajai-11/Leetcode-solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Ajai-11/Leetcode-solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/Ajai-11/Leetcode-solution/tree/master/2998-count-symmetric-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ajai-11/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ajai-11/Leetcode-solution/tree/master/3515-find-if-digit-game-can-be-won) |
