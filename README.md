@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ajai-11/Leetcode-solution/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Ajai-11/Leetcode-solution/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Ajai-11/Leetcode-solution/tree/master/3226-minimum-number-game) |
+| [3227-find-missing-and-repeated-values](https://github.com/Ajai-11/Leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ajai-11/Leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ajai-11/Leetcode-solution/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3324-split-the-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/3324-split-the-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ajai-11/Leetcode-solution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/2502-sort-the-people) |
+| [3227-find-missing-and-repeated-values](https://github.com/Ajai-11/Leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ajai-11/Leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/3324-split-the-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ajai-11/Leetcode-solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ajai-11/Leetcode-solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/Ajai-11/Leetcode-solution/tree/master/2998-count-symmetric-integers) |
+| [3227-find-missing-and-repeated-values](https://github.com/Ajai-11/Leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ajai-11/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ajai-11/Leetcode-solution/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Depth-First Search
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Ajai-11/Leetcode-solution/tree/master/2737-row-with-maximum-ones) |
+| [3227-find-missing-and-repeated-values](https://github.com/Ajai-11/Leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Ajai-11/Leetcode-solution/tree/master/3330-modify-the-matrix) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Ajai-11/Leetcode-solution/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Counting
