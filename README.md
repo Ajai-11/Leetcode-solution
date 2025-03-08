@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ajai-11/Leetcode-solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajai-11/Leetcode-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ajai-11/Leetcode-solution/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ajai-11/Leetcode-solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2502-sort-the-people](https://github.com/Ajai-11/Leetcode-solution/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/Ajai-11/Leetcode-solution/tree/master/2580-circular-sentence) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ajai-11/Leetcode-solution/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ajai-11/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Ajai-11/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ajai-11/Leetcode-solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ajai-11/Leetcode-solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Ajai-11/Leetcode-solution/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Prefix Sum
 |  |
